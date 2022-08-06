@@ -1,4 +1,4 @@
- <h1><center> <img src= "https://images.wondershare.com/recoverit/article/2020/08/unhide-songs-on-spotify-1.jpg" alt ="Spotify" style='width: 550px;'> </center></h1>
+ <h1 align="center"> <img src= "https://images.wondershare.com/recoverit/article/2020/08/unhide-songs-on-spotify-1.jpg" alt ="Spotify" style='width: 550px;'> </h1>
 
 This is an exploratory data analysis of the "**Spotify Top Hits (2000-2019)**" dataset by Mark Koverha.
 
